@@ -1,0 +1,25 @@
+nvm: https://gist.github.com/d2s/372b5943bce17b964a79
+crear app para react: https://github.com/facebook/create-react-app#creating-an-app
+react: https://facebook.github.io/create-react-app/docs/getting-started
+
+Para ejecutar página:
+- cd delia-web
+- npm start
+------
+- Buscar extension 'Excel Viewer9 para ver .csv en vscode
+- Abrir archivos .csv: npm install --save react-csv-reader
+- css grid: https://www.w3schools.com/css/css_grid.asp
+- css grid-properties: https://cssreference.io/property/box-shadow/
+
+- Formato de horarios:
+"horarios": [
+	{ "id": ,
+		"profesor": "",
+		"bloques": [
+			{"pos": , "sala": ""},
+			{"pos": , "sala": ""}
+		]
+	}
+]
+
+- Bloques por día = 7

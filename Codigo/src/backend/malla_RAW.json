@@ -1,0 +1,490 @@
+[
+{
+	"code": "BAIN019-07",
+	"name": "QUIMICA PARA INGENIERIA",
+	"credits": 4,
+	"requisites": "",
+	"position": 1,
+	"failrate": 0.311475409836066
+},
+{
+	"code": "DYRE060-90",
+	"name": "EDUCACIÓN FÍSICA Y SALUD",
+	"credits": 4,
+	"requisites": "",
+	"position": 1,
+	"failrate": 0
+},
+{
+	"code": "INFO013-07",
+	"name": "INTRODUCCION A LA PROGRAMACION",
+	"credits": 4,
+	"requisites": "",
+	"position": 1,
+	"failrate": 0.385496183206107
+},
+{
+	"code": "INFO015-08",
+	"name": "TALLER DE INGENIERIA I",
+	"credits": 4,
+	"requisites": "",
+	"position": 1,
+	"failrate": 0.105960264900662
+},
+{
+	"code": "BAIN036-07",
+	"name": "ALGEBRA LINEAL PARA INGENIERIA",
+	"credits": 5,
+	"requisites": "BAIN017-07",
+	"position": 2,
+	"failrate": 0.474564127059947
+},
+{
+	"code": "BAIN037-07",
+	"name": "CALCULO I PARA INGENIERIA",
+	"credits": 5,
+	"requisites": "BAIN017-07",
+	"position": 2,
+	"failrate": 0.538184132371659
+},
+{
+	"code": "BAIN038-07",
+	"name": "FISICA I PARA INGENIERIA",
+	"credits": 8,
+	"requisites": "BAIN012-07, BAIN017-07",
+	"position": 2,
+	"failrate": 0.474528301886792
+},
+{
+	"code": "BAIN039-07",
+	"name": "COMUNICACION: IDIOMA INGLES",
+	"credits": 4,
+	"requisites": "",
+	"position": 2,
+	"failrate": 0.205673758865248
+},
+{
+	"code": "INFO023-08",
+	"name": "PROGRAMACION",
+	"credits": 4,
+	"requisites": "INFO013-07",
+	"position": 2,
+	"failrate": 0.308108108108108
+},
+{
+	"code": "INFO025-08",
+	"name": "TALLER DE INGENIERIA II",
+	"credits": 4,
+	"requisites": "BAIN012-07, BAIN017-07, INFO015-08",
+	"position": 2,
+	"failrate": 0.0516795865633075
+},
+{
+	"code": "BAIN041-07",
+	"name": "ECUACIONES DIFERENCIALES PARA INGENIERIA",
+	"credits": 5,
+	"requisites": "BAIN037-07",
+	"position": 3,
+	"failrate": 0.421555252387449
+},
+{
+	"code": "BAIN042-07",
+	"name": "CALCULO II PARA INGENIERIA",
+	"credits": 5,
+	"requisites": "BAIN037-07",
+	"position": 3,
+	"failrate": 0.515432098765432
+},
+{
+	"code": "BAIN043-07",
+	"name": "FISICA II PARA INGENIERIA",
+	"credits": 6,
+	"requisites": "BAIN037-07, BAIN038-07",
+	"position": 3,
+	"failrate": 0.328267477203647
+},
+{
+	"code": "INFO033-07",
+	"name": "PROGRAMACION ORIENTADA A OBJETOS",
+	"credits": 4,
+	"requisites": "INFO023-08",
+	"position": 3,
+	"failrate": 0.217073170731707
+},
+{
+	"code": "INFO035-08",
+	"name": "TALLER DE INGENIERIA III",
+	"credits": 4,
+	"requisites": "INFO025-08",
+	"position": 3,
+	"failrate": 0.0456026058631922
+},
+{
+	"code": "INFO043-07",
+	"name": "ESTRUCTURAS DISCRETAS",
+	"credits": 6,
+	"requisites": "BAIN036-07, INFO013-07",
+	"position": 3,
+	"failrate": 0.323607427055703
+},
+{
+	"code": "BAIN052-07",
+	"name": "ESTADISTICA Y PROBABILIDADES PARA INGENIERIA",
+	"credits": 4,
+	"requisites": "BAIN036-07",
+	"position": 4,
+	"failrate": 0.278114186851211
+},
+{
+	"code": "BAIN053-07",
+	"name": "METODOS NUMERICOS PARA INGENIERIA",
+	"credits": 4,
+	"requisites": "BAIN041-07",
+	"position": 4,
+	"failrate": 0.414728682170543
+},
+{
+	"code": "BAIN054-07",
+	"name": "FISICA III PARA INGENIERIA",
+	"credits": 8,
+	"requisites": "BAIN041-07, BAIN042-07",
+	"position": 4,
+	"failrate": 0.207843137254902
+},
+{
+	"code": "ELECT01",
+	"name": "OPTATIVO 1",
+	"credits": 0,
+	"requisites": "",
+	"position": 4,
+	"failrate": 0
+},
+{
+	"code": "INFO045-08",
+	"name": "TALLER",
+	"credits": 6,
+	"requisites": "BAIN041-07, BAIN042-07, INFO035-08",
+	"position": 4,
+	"failrate": 0.00826446280991736
+},
+{
+	"code": "INFO053-07",
+	"name": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+	"credits": 6,
+	"requisites": "INFO035-08, INFO043-07",
+	"position": 4,
+	"failrate": 0.399449035812672
+},
+{
+	"code": "CIDI100-90",
+	"name": "INGLES INSTRUMENTAL II",
+	"credits": 4,
+	"requisites": "",
+	"position": 0,
+	"failrate": 0.158730158730159
+},
+{
+	"code": "CIDI108-02",
+	"name": "INGLES FUNCIONAL",
+	"credits": 4,
+	"requisites": "",
+	"position": 9,
+	"failrate": 0.0555555555555556
+},
+{
+	"code": "EICI297-90",
+	"name": "PRACTICA PROFESIONAL",
+	"credits": 8,
+	"requisites": "INFO264-00, INFO266-08, INFO271-08, INFO272-00, INFO281-08, INFO284-08",
+	"position": 9,
+	"failrate": 0
+},
+{
+	"code": "ELECT20",
+	"name": "OPTATIVO PROFESIONAL 1",
+	"credits": 0,
+	"requisites": "",
+	"position": 9,
+	"failrate": ""
+},
+{
+	"code": "INFO251-08",
+	"name": "SEMINARIO DE ETICA PROFESIONAL",
+	"credits": 2,
+	"requisites": "INFO264-00, INFO272-00, INFO281-08",
+	"position": 9,
+	"failrate": 0
+},
+{
+	"code": "INFO252-97",
+	"name": "PROYECTO I",
+	"credits": 4,
+	"requisites": "INFO264-00, INFO271-08, INFO272-00",
+	"position": 9,
+	"failrate": 0
+},
+{
+	"code": "INFO268-00",
+	"name": "TALLER DE BASE DE DATOS",
+	"credits": 4,
+	"requisites": "INFO264-00",
+	"position": 9,
+	"failrate": 0.0393700787401575
+},
+{
+	"code": "INFO273-00",
+	"name": "EVALUACION DE DESEMPEÑO",
+	"credits": 5,
+	"requisites": "INFO173-00, INFO182-00, INFO281-08",
+	"position": 9,
+	"failrate": 0.00854700854700855
+},
+{
+	"code": "INFO275-08",
+	"name": "SISTEMAS DE GESTION ESTRATEGICOS",
+	"credits": 5,
+	"requisites": "ADMI100-90, INFO270-00, INFO272-00",
+	"position": 9,
+	"failrate": 0.0254237288135593
+},
+{
+	"code": "EICI245-08",
+	"name": "TALLER DE SOFTWARE- PROYECTO INTEGRACIÓN DE TIC",
+	"credits": 5,
+	"requisites": "INFO189-08, INFO264-00, INFO266-08, INFO281-08, INFO284-08",
+	"position": 10,
+	"failrate": 0
+},
+{
+	"code": "EICI246-08",
+	"name": "ARQUITECTURA DE SISTEMAS",
+	"credits": 6,
+	"requisites": "INFO264-00, INFO271-08, INFO275-08, INFO281-08, INFO284-08",
+	"position": 10,
+	"failrate": 0.0731707317073171
+},
+{
+	"code": "EICI247-08",
+	"name": "REALIDAD TECNOLOGICA NACIONAL",
+	"credits": 2,
+	"requisites": "INFO264-00, INFO272-00, INFO281-08",
+	"position": 10,
+	"failrate": 0
+},
+{
+	"code": "INFO267-00",
+	"name": "INTELIGENCIA ARTIFICIAL",
+	"credits": 6,
+	"requisites": "INFO175-08",
+	"position": 10,
+	"failrate": 0.094488188976378
+},
+{
+	"code": "INFO274-00",
+	"name": "SIMULACION",
+	"credits": 4,
+	"requisites": "INFO173-00",
+	"position": 10,
+	"failrate": 0.040983606557377
+},
+{
+	"code": "INFO276-08",
+	"name": "SISTEMAS DE GESTION TACTICOS",
+	"credits": 4,
+	"requisites": "ADMI100-90, INFO270-00, INFO272-00",
+	"position": 10,
+	"failrate": 0.00862068965517241
+},
+{
+	"code": "EICI255-08",
+	"name": "ADMINISTRACION DE TIC",
+	"credits": 6,
+	"requisites": "EICI245-08, EICI246-08, INFO276-08",
+	"position": 11,
+	"failrate": ""
+},
+{
+	"code": "EICI261-08",
+	"name": "ESTRATEGIA Y SI",
+	"credits": 6,
+	"requisites": "EICI246-08, INFO276-08",
+	"position": 11,
+	"failrate": ""
+},
+{
+	"code": "EICI298-09",
+	"name": "PROYECTO DE TITULO",
+	"credits": 6,
+	"requisites": "",
+	"position": 11,
+	"failrate": 0.223404255319149
+},
+{
+	"code": "ELECT21",
+	"name": "OPTATIVO PROFESIONAL 2",
+	"credits": 0,
+	"requisites": "",
+	"position": 11,
+	"failrate": ""
+},
+{
+	"code": "ELECT22",
+	"name": "OPTATIVO PROFESIONAL 3",
+	"credits": 0,
+	"requisites": "",
+	"position": 11,
+	"failrate": ""
+},
+{
+	"code": "INFO253-08",
+	"name": "ANTEPROYECTO DE TITULO",
+	"credits": 4,
+	"requisites": "EICI245-08, EICI246-08, INFO276-08",
+	"position": 11,
+	"failrate": 0.0347826086956522
+},
+{
+	"code": "IECO102-05",
+	"name": "ECONOMIA GENERAL",
+	"credits": 4,
+	"requisites": "BAIN042-07, INFO035-08",
+	"position": 7,
+	"failrate": 0.120551924473493
+},
+{
+	"code": "INFO182-00",
+	"name": "SISTEMA OPERATIVO",
+	"credits": 4,
+	"requisites": "INFO163-08",
+	"position": 7,
+	"failrate": 0.21875
+},
+{
+	"code": "INFO185-97",
+	"name": "COMUNICACIONES",
+	"credits": 6,
+	"requisites": "BAIN042-07, BAIN052-07, INFO184-08",
+	"position": 7,
+	"failrate": 0.0566037735849057
+},
+{
+	"code": "INFO189-08",
+	"name": "SOFTWARE DE INGENIERIA",
+	"credits": 4,
+	"requisites": "BAIN043-07, BAIN053-07, INFO045-08, INFO183-00",
+	"position": 7,
+	"failrate": 0.125
+},
+{
+	"code": "INFO263-08",
+	"name": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+	"credits": 5,
+	"requisites": "ADMI100-90, INFO175-08",
+	"position": 7,
+	"failrate": 0.0869565217391304
+},
+{
+	"code": "INFO270-00",
+	"name": "INGENIERIA DE SISTEMAS",
+	"credits": 4,
+	"requisites": "INFO164-00",
+	"position": 7,
+	"failrate": 0.121794871794872
+},
+{
+	"code": "INFO163-08",
+	"name": "PROGRAMACION CONCURRENTE",
+	"credits": 4,
+	"requisites": "INFO053-07",
+	"position": 6,
+	"failrate": 0.176470588235294
+},
+{
+	"code": "INFO165-00",
+	"name": "COMPILADORES",
+	"credits": 5,
+	"requisites": "INFO164-00",
+	"position": 6,
+	"failrate": 0.223300970873786
+},
+{
+	"code": "INFO173-00",
+	"name": "INVESTIGACION OPERATIVA II",
+	"credits": 5,
+	"requisites": "BAIN042-07, BAIN052-07, INFO172-00",
+	"position": 6,
+	"failrate": 0.196428571428571
+},
+{
+	"code": "INFO183-00",
+	"name": "ANALISIS DE SISTEMAS LINEALES",
+	"credits": 5,
+	"requisites": "BAIN041-07, INFO184-08",
+	"position": 6,
+	"failrate": 0.272340425531915
+},
+{
+	"code": "INFO261-08",
+	"name": "BASES DE DATOS",
+	"credits": 6,
+	"requisites": "INFO164-00",
+	"position": 6,
+	"failrate": 0.139423076923077
+},
+{
+	"code": "INFO265-08",
+	"name": "COMPUTACION GRAFICA",
+	"credits": 6,
+	"requisites": "INFO035-08, INFO053-07",
+	"position": 6,
+	"failrate": 0.0357142857142857
+},
+{
+	"code": "INFO264-00",
+	"name": "TALLER INGENIERIA DE SOFTWARE",
+	"credits": 6,
+	"requisites": "INFO035-08, INFO261-08, INFO263-08",
+	"position": 8,
+	"failrate": 0.0344827586206897
+},
+{
+	"code": "INFO266-08",
+	"name": "INTERFAZ HUMANO - COMPUTADOR",
+	"credits": 6,
+	"requisites": "INFO263-08",
+	"position": 8,
+	"failrate": 0.0479452054794521
+},
+{
+	"code": "INFO271-08",
+	"name": "SISTEMAS DE INFORMACION",
+	"credits": 4,
+	"requisites": "ADMI100-90, IECO102-05, INFO270-00",
+	"position": 8,
+	"failrate": 0.0779220779220779
+},
+{
+	"code": "INFO272-00",
+	"name": "INGENIERIA ECONOMICA",
+	"credits": 4,
+	"requisites": "IECO102-05, INFO173-00",
+	"position": 8,
+	"failrate": 0.142011834319527
+},
+{
+	"code": "INFO281-08",
+	"name": "REDES",
+	"credits": 6,
+	"requisites": "INFO182-00, INFO185-97",
+	"position": 8,
+	"failrate": 0.132530120481928
+},
+{
+	"code": "INFO284-08",
+	"name": "TALLER DE INTEGRACION DE TIC",
+	"credits": 6,
+	"requisites": "BAIN054-07, INFO175-08, INFO183-00",
+	"position": 8,
+	"failrate": 0.0335570469798658
+}
+]

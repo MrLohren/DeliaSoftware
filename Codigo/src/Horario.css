@@ -1,0 +1,45 @@
+.Horario{
+	border-style: solid;
+	display: grid;
+	justify-content: center;
+	
+	/*-----Relevantes:-----*/
+	background-color: lightgray;
+		/* Definición de columnas y tamaños: */
+	grid-template-columns: 150px 150px 150px 150px 150px 150px;
+		/* Redondeado: */
+	border-radius: 10px;
+		/* Anchura total: */
+	width: 900px;
+		/* Separación: */
+	padding: 5px;
+}
+
+.Dia{
+	border-style: solid;
+	display: grid;
+
+	/*-----Relevantes:-----*/
+		/* Sombra del container: */
+	background-color: lightgreen;
+	border-radius: 5px;
+	box-shadow: 2px 4px 10px;
+	font-size: 20px;
+	padding: 2px;
+}
+
+.Casilla{
+	border-style: solid;
+	display: grid;
+	
+	/*-----Relevantes:-----*/
+	background-color: lightskyblue;
+	border-radius: 10px;
+	box-shadow: 2px 4px 10px;
+	font-size: 15px;
+	/* Altura de la casilla: */
+	height: 60px;
+	padding: 1px;
+		/* Comportamiento con overflow: */
+	overflow: scroll;
+}

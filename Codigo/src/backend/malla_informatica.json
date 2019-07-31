@@ -1,0 +1,182 @@
+[
+  {
+    "code": "ADMI100-90",
+    "name": "ADMINISTRACION DE EMPRESAS",
+    "credits": 6,
+    "requisites": "BAIN009-07, INFO035-08",
+    "position": 5,
+    "failrate": 0.063752276867031,
+    "horarios": [
+      { "grupo": 3,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 12, "sala": "7302"},
+          {"pos": 26, "sala": "7302"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "INFO164-00",
+    "name": "TEORIA DE AUTOMATAS",
+    "credits": 6,
+    "requisites": "INFO053-07",
+    "position": 5,
+    "failrate": 0.248927038626609,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "Maria Eliana De La Maza Werner",
+        "bloques": [
+          {"pos": 8, "sala": "6309"},
+          {"pos": 24, "sala": "6301"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "INFO172-00",
+    "name": "INVESTIGACION OPERATIVA I",
+    "credits": 5,
+    "requisites": "BAIN036-07",
+    "position": 5,
+    "failrate": 0.234657039711191,
+    "horarios": [
+      { "id": 1,
+        "profesor": "Mauricio Ruiz-Tagle Molina",
+        "bloques": [
+          {"pos": 13, "sala": "Lab. Curiñanco"},
+          {"pos": 17, "sala": "7101"},
+          {"pos": 21, "sala": "7102"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "INFO175-08",
+    "name": "TALLER DE CONSTRUCCION DE SOFTWARE",
+    "credits": 4,
+    "requisites": "INFO035-08, INFO053-07",
+    "position": 5,
+    "failrate": 0.0490196078431373,
+    "horarios": [
+      { "id": 1,
+        "profesor": "Julio Daniel Guerra Hollstein",
+        "bloques": [
+          {"pos": 20, "sala": "8101"},
+          {"pos": 31, "sala": "8102"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "INFO184-08",
+    "name": "ARQUITECTURA DE COMPUTADORES",
+    "credits": 5,
+    "requisites": "BAIN019-07, BAIN037-07, BAIN038-07",
+    "position": 5,
+    "failrate": 0.271375464684015,
+    "horarios": [
+      { "id": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 9, "sala": "7201"},
+          {"pos": 29, "sala": "7101"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN009-07",
+    "name": "COMUNICACION: IDIOMA ESPAÑOL",
+    "credits": 4,
+    "requisites": "",
+    "position": 1,
+    "failrate": 0.0764392839864538,
+    "horarios": [
+      { "id": 5,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 6, "sala": "3203"},
+          {"pos": 20, "sala": "7201"}
+        ]
+      },
+      { "id": 6,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 4, "sala": "3203"},
+          {"pos": 17, "sala": "Audiovisual 1"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN012-07",
+    "name": "GEOMETRIA PARA INGENIERIA",
+    "credits": 6,
+    "requisites": "",
+    "position": 1,
+    "failrate": 0.534302515517805,
+    "horarios": [
+      { "id": 7,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 3, "sala": "9103"},
+          {"pos": 24, "sala": "6306"},
+          {"pos": 30, "sala": "6306"}
+
+        ]
+      },
+      { "id": 8,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 12, "sala": "3203"},
+          {"pos": 14, "sala": "7202"},
+          {"pos": 25, "sala": "6306"}
+        ]
+      },
+      { "id": 9,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 1, "sala": "9103"},
+          {"pos": 23, "sala": "6302"},
+          {"pos": 31, "sala": "6309"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN017-07",
+    "name": "ALGEBRA PARA INGENIERIA",
+    "credits": 6,
+    "requisites": "",
+    "position": 1,
+    "failrate": 0.509282488710487,
+    "horarios": [
+      { "id": 7,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 10, "sala": "9201"},
+          {"pos": 14, "sala": "9201"},
+          {"pos": 29, "sala": "6308"}
+
+        ]
+      },
+      { "id": 8,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 7, "sala": "9201"},
+          {"pos": 15, "sala": "9201"},
+          {"pos": 28, "sala": "9201"}
+        ]
+      },
+      { "id": 9,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 9, "sala": "9201"},
+          {"pos": 16, "sala": "9201"},
+          {"pos": 21, "sala": "9201"}
+        ]
+      }
+    ]
+  }
+]
