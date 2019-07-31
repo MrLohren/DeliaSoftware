@@ -41,7 +41,7 @@
     "position": 5,
     "failrate": 0.234657039711191,
     "horarios": [
-      { "id": 1,
+      { "grupo": 1,
         "profesor": "Mauricio Ruiz-Tagle Molina",
         "bloques": [
           {"pos": 13, "sala": "Lab. Curiñanco"},
@@ -59,7 +59,7 @@
     "position": 5,
     "failrate": 0.0490196078431373,
     "horarios": [
-      { "id": 1,
+      { "grupo": 1,
         "profesor": "Julio Daniel Guerra Hollstein",
         "bloques": [
           {"pos": 20, "sala": "8101"},
@@ -76,7 +76,7 @@
     "position": 5,
     "failrate": 0.271375464684015,
     "horarios": [
-      { "id": 1,
+      { "grupo": 1,
         "profesor": "No especificado.",
         "bloques": [
           {"pos": 9, "sala": "7201"},
@@ -93,14 +93,14 @@
     "position": 1,
     "failrate": 0.0764392839864538,
     "horarios": [
-      { "id": 5,
+      { "grupo": 5,
         "profesor": "No especificado.",
         "bloques": [
           {"pos": 6, "sala": "3203"},
           {"pos": 20, "sala": "7201"}
         ]
       },
-      { "id": 6,
+      { "grupo": 6,
         "profesor": "No especificado.",
         "bloques": [
           {"pos": 4, "sala": "3203"},
@@ -117,7 +117,7 @@
     "position": 1,
     "failrate": 0.534302515517805,
     "horarios": [
-      { "id": 7,
+      { "grupo": 7,
         "profesor": "No especificado.",
         "bloques": [
           {"pos": 3, "sala": "9103"},
@@ -126,7 +126,7 @@
 
         ]
       },
-      { "id": 8,
+      { "grupo": 8,
         "profesor": "No especificado.",
         "bloques": [
           {"pos": 12, "sala": "3203"},
@@ -134,7 +134,7 @@
           {"pos": 25, "sala": "6306"}
         ]
       },
-      { "id": 9,
+      { "grupo": 9,
         "profesor": "No especificado.",
         "bloques": [
           {"pos": 1, "sala": "9103"},
@@ -152,7 +152,7 @@
     "position": 1,
     "failrate": 0.509282488710487,
     "horarios": [
-      { "id": 7,
+      { "grupo": 7,
         "profesor": "No especificado.",
         "bloques": [
           {"pos": 10, "sala": "9201"},
@@ -161,7 +161,7 @@
 
         ]
       },
-      { "id": 8,
+      { "grupo": 8,
         "profesor": "No especificado.",
         "bloques": [
           {"pos": 7, "sala": "9201"},
@@ -169,7 +169,7 @@
           {"pos": 28, "sala": "9201"}
         ]
       },
-      { "id": 9,
+      { "grupo": 9,
         "profesor": "No especificado.",
         "bloques": [
           {"pos": 9, "sala": "9201"},
