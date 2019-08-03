@@ -196,6 +196,30 @@
     ]
   },
   {
+  	"code": "DYRE060-90",
+  	"name": "EDUCACIÓN FÍSICA Y SALUD",
+  	"credits": 4,
+  	"requisites": "",
+  	"position": 1,
+  	"failrate": 0,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 1, "sala": "Gimnasio"},
+          {"pos": 19, "sala": "Gimnasio"}
+        ]
+      },
+      { "grupo": 2,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 7, "sala": "Gimnasio"},
+          {"pos": 13, "sala": "Lab. Curiñanco"}
+        ]
+      }
+    ]
+  },
+  {
   	"code": "INFO013-07",
   	"name": "INTRODUCCION A LA PROGRAMACION",
   	"credits": 4,
@@ -301,6 +325,30 @@
     ]
   },
   {
+  	"code": "BAIN039-07",
+  	"name": "COMUNICACION: IDIOMA INGLES",
+  	"credits": 4,
+  	"requisites": "",
+  	"position": 2,
+  	"failrate": 0.205673758865248,
+    "horarios": [
+      { "grupo": 4,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 3, "sala": "3203"},
+          {"pos": 9, "sala": "9103"}
+        ]
+      },
+      { "grupo": 5,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 2, "sala": "3203"},
+          {"pos": 20, "sala": "9103"}
+        ]
+      }
+    ]
+  },
+  {
   	"code": "INFO023-08",
   	"name": "PROGRAMACION",
   	"credits": 4,
@@ -314,6 +362,30 @@
           {"pos": 2, "sala": "Lab. Curiñanco"},
           {"pos": 3, "sala": "Lab. Curiñanco"},
           {"pos": 19, "sala": "Lab. Curiñanco"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO025-08",
+  	"name": "TALLER DE INGENIERIA II",
+  	"credits": 4,
+  	"requisites": "BAIN012-07, BAIN017-07, INFO015-08",
+  	"position": 2,
+  	"failrate": 0.0516795865633075,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 20, "sala": "Lab. Llancahue"},
+          {"pos": 21, "sala": "Lab. Llancahue"}
+        ]
+      },
+      { "grupo": 2,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 25, "sala": "Lab. Llancahue"},
+          {"pos": 26, "sala": "Lab. Llancahue"}
         ]
       }
     ]
@@ -520,6 +592,23 @@
     ]
   },
   {
+  	"code": "CIDI100-90",
+  	"name": "INGLES INSTRUMENTAL II",
+  	"credits": 4,
+  	"requisites": "",
+  	"position": 0,
+  	"failrate": 0.158730158730159,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 8, "sala": "7301"},
+          {"pos": 20, "sala": "7302"}
+        ]
+      }
+    ]
+  },
+  {
   	"code": "CIDI108-02",
   	"name": "INGLES FUNCIONAL",
   	"credits": 4,
@@ -637,6 +726,76 @@
     ]
   },
   {
+  	"code": "EICI246-08",
+  	"name": "ARQUITECTURA DE SISTEMAS",
+  	"credits": 6,
+  	"requisites": "INFO264-00, INFO271-08, INFO275-08, INFO281-08, INFO284-08",
+  	"position": 10,
+  	"failrate": 0.0731707317073171,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 3, "sala": "Lab. Llancahue"},
+          {"pos": 16, "sala": "8101"},
+          {"pos": 28, "sala": "Lab. Llancahue"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "EICI247-08",
+  	"name": "REALIDAD TECNOLOGICA NACIONAL",
+  	"credits": 2,
+  	"requisites": "INFO264-00, INFO272-00, INFO281-08",
+  	"position": 10,
+  	"failrate": 0,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 18, "sala": "Lab. Llancahue"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO267-00",
+  	"name": "INTELIGENCIA ARTIFICIAL",
+  	"credits": 6,
+  	"requisites": "INFO175-08",
+  	"position": 10,
+  	"failrate": 0.094488188976378,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 2, "sala": "Lab. Llancahue"},
+          {"pos": 9, "sala": "Lab. Llancahue"},
+          {"pos": 27, "sala": "Lab. Llancahue"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO274-00",
+  	"name": "SIMULACION",
+  	"credits": 4,
+  	"requisites": "INFO173-00",
+  	"position": 10,
+  	"failrate": 0.040983606557377,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 14, "sala": "6308"},
+          {"pos": 26, "sala": "Lab. Curiñanco"},
+          {"pos": 30, "sala": "9102"}
+        ]
+      }
+    ]
+  },
+  {
   	"code": "INFO276-08",
   	"name": "SISTEMAS DE GESTION TACTICOS",
   	"credits": 4,
@@ -702,6 +861,40 @@
         "bloques": [
           {"pos": 8, "sala": "9201"},
           {"pos": 12, "sala": "9201"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "IECO102-05",
+  	"name": "ECONOMIA GENERAL",
+  	"credits": 4,
+  	"requisites": "BAIN042-07, INFO035-08",
+  	"position": 7,
+  	"failrate": 0.120551924473493,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 9, "sala": "7301"},
+          {"pos": 20, "sala": "7301"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO182-00",
+  	"name": "SISTEMA OPERATIVO",
+  	"credits": 4,
+  	"requisites": "INFO163-08",
+  	"position": 7,
+  	"failrate": 0.21875,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 16, "sala": "Lab. Mancera"},
+          {"pos": 23, "sala": "Lab. Curiñanco"}
         ]
       }
     ]
@@ -776,4 +969,216 @@
       }
     ]
   },
+  {
+  	"code": "INFO163-08",
+  	"name": "PROGRAMACION CONCURRENTE",
+  	"credits": 4,
+  	"requisites": "INFO053-07",
+  	"position": 6,
+  	"failrate": 0.176470588235294,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 4, "sala": "Lab. Mancera"},
+          {"pos": 13, "sala": "Lab. Mancera"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO165-00",
+  	"name": "COMPILADORES",
+  	"credits": 5,
+  	"requisites": "INFO164-00",
+  	"position": 6,
+  	"failrate": 0.223300970873786,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 9, "sala": "6310"},
+          {"pos": 20, "sala": "6310"},
+          {"pos": 26, "sala": "6309"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO173-00",
+  	"name": "INVESTIGACION OPERATIVA II",
+  	"credits": 5,
+  	"requisites": "BAIN042-07, BAIN052-07, INFO172-00",
+  	"position": 6,
+  	"failrate": 0.196428571428571,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 11, "sala": "7202"},
+          {"pos": 12, "sala": "7202"},
+          {"pos": 23, "sala": "7101"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO183-00",
+  	"name": "ANALISIS DE SISTEMAS LINEALES",
+  	"credits": 5,
+  	"requisites": "BAIN041-07, INFO184-08",
+  	"position": 6,
+  	"failrate": 0.272340425531915,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 3, "sala": "7102"},
+          {"pos": 19, "sala": "7102"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO261-08",
+  	"name": "BASES DE DATOS",
+  	"credits": 6,
+  	"requisites": "INFO164-00",
+  	"position": 6,
+  	"failrate": 0.139423076923077,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 14, "sala": "Lab. Curiñanco"},
+          {"pos": 15, "sala": "Lab. Curiñanco"},
+          {"pos": 28, "sala": "Lab. Curiñanco"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO265-08",
+  	"name": "COMPUTACION GRAFICA",
+  	"credits": 6,
+  	"requisites": "INFO035-08, INFO053-07",
+  	"position": 6,
+  	"failrate": 0.0357142857142857,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 2, "sala": "Lab. Curiñanco"},
+          {"pos": 7, "sala": "Lab. Curiñanco"},
+          {"pos": 8, "sala": "Lab. Curiñanco"},
+          {"pos": 21, "sala": "Lab. Curiñanco"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO264-00",
+  	"name": "TALLER INGENIERIA DE SOFTWARE",
+  	"credits": 6,
+  	"requisites": "INFO035-08, INFO261-08, INFO263-08",
+  	"position": 8,
+  	"failrate": 0.0344827586206897,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 14, "sala": "Lab. Llancahue"},
+          {"pos": 26, "sala": "Lab. Mancera"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO266-08",
+  	"name": "INTERFAZ HUMANO - COMPUTADOR",
+  	"credits": 6,
+  	"requisites": "INFO263-08",
+  	"position": 8,
+  	"failrate": 0.0479452054794521,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 6, "sala": "Lab. Llancahue"},
+          {"pos": 15, "sala": "Lab. Llancahue"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO271-08",
+  	"name": "SISTEMAS DE INFORMACION",
+  	"credits": 4,
+  	"requisites": "ADMI100-90, IECO102-05, INFO270-00",
+  	"position": 8,
+  	"failrate": 0.0779220779220779,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 6, "sala": "7302"},
+          {"pos": 15, "sala": "7101"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO272-00",
+  	"name": "INGENIERIA ECONOMICA",
+  	"credits": 4,
+  	"requisites": "IECO102-05, INFO173-00",
+  	"position": 8,
+  	"failrate": 0.142011834319527,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 13, "sala": "7202"},
+          {"pos": 20, "sala": "7101"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO281-08",
+  	"name": "REDES",
+  	"credits": 6,
+  	"requisites": "INFO182-00, INFO185-97",
+  	"position": 8,
+  	"failrate": 0.132530120481928,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 16, "sala": "7202"},
+          {"pos": 22, "sala": "Lab. Mancera"},
+          {"pos": 28, "sala": "Lab. Mancera"}
+        ]
+      }
+    ]
+  },
+  {
+  	"code": "INFO284-08",
+  	"name": "TALLER DE INTEGRACION DE TIC",
+  	"credits": 6,
+  	"requisites": "BAIN054-07, INFO175-08, INFO183-00",
+  	"position": 8,
+  	"failrate": 0.0335570469798658,
+    "horarios": [
+      { "grupo": 1,
+        "profesor": "No especificado.",
+        "bloques": [
+          {"pos": 2, "sala": "Lab. Mancera"},
+          {"pos": 3, "sala": "Lab. Mancera"},
+          {"pos": 7, "sala": "Lab. Mancera"},
+          {"pos": 8, "sala": "Lab. Mancera"}
+        ]
+      }
+    ]
+  }
 ]
