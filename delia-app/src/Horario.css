@@ -1,0 +1,6 @@
+@import '~@fullcalendar/core/main.css';
+@import '~@fullcalendar/timegrid/main.css';
+
+th.ui-widget-header {
+	font-size: 9pt;
+}

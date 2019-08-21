@@ -1,0 +1,291 @@
+[
+  {
+    "code": "BAIN009-07",
+    "name": "COMUNICACION: IDIOMA ESPAÑOL",
+    "requisites": [""],
+    "position": 1,
+    "horarios": [
+      {
+        "grupo": 5,
+        "bloques": [
+          {"pos": 5, "sala": "3203"},
+          {"pos": 19, "sala": "7201"}
+        ]
+      },
+      {
+        "grupo": 6,
+        "bloques": [
+          {"pos": 3, "sala": "3203"},
+          {"pos": 17, "sala": "Audiovisual 1"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN012-07",
+    "name": "GEOMETRIA PARA INGENIERIA",
+    "requisites": [""],
+    "position": 1,
+    "horarios": [
+      {
+        "grupo": 7,
+        "bloques": [
+          {"pos": 2, "sala": "9103"},
+          {"pos": 24, "sala": "6306"},
+          {"pos": 30, "sala": "6307"}
+        ]
+      },
+      {
+        "grupo": 8,
+        "bloques": [
+          {"pos": 11, "sala": "3203"},
+          {"pos": 14, "sala": "7202"},
+          {"pos": 25, "sala": "6306"}
+        ]
+      },
+      {
+        "grupo": 9,
+        "bloques": [
+          {"pos": 0, "sala": "9103"},
+          {"pos": 23, "sala": "6302"},
+          {"pos": 31, "sala": "6309"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN017-07",
+    "name": "ALGEBRA PARA INGENIERIA",
+    "requisites": [""],
+    "position": 1,
+    "horarios": [
+      {
+        "grupo": 7,
+        "bloques": [
+          {"pos": 9, "sala": "9102"},
+          {"pos": 14, "sala": "9201"},
+          {"pos": 29, "sala": "9201"}
+        ]
+      },
+      {
+        "grupo": 8,
+        "bloques": [
+          {"pos": 11, "sala": "3203"},
+          {"pos": 14, "sala": "7202"},
+          {"pos": 25, "sala": "6306"}
+        ]
+      },
+      {
+        "grupo": 9,
+        "bloques": [
+          {"pos": 10, "sala": "8101"},
+          {"pos": 16, "sala": "9201"},
+          {"pos": 21, "sala": "9201"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN019-07",
+    "name": "QUIMICA PARA INGENIERIA",
+    "requisites": [""],
+    "position": 1,
+    "horarios": [
+      {
+        "grupo": 1,
+        "bloques": [
+          {"pos": 8, "sala": "6301"},
+          {"pos": 23, "sala": "7202"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "INFO013-07",
+    "name": "INTRODUCCION A LA PROGRAMACION",
+    "requisites": [""],
+    "position": 1,
+    "horarios": [
+      {
+        "grupo": 1,
+        "bloques": [
+          {"pos": 3, "sala": "Lab. Curiñanco"},
+          {"pos": 11, "sala": "8101"},
+          {"pos": 17, "sala": "Lab. Curiñanco"}
+        ]
+      },
+      {
+        "grupo": 2,
+        "bloques": [
+          {"pos": 1, "sala": "9103"},
+          {"pos": 22, "sala": "Lab. Curiñanco"},
+          {"pos": 30, "sala": "Lab. Curiñanco"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "INFO015-08",
+    "name": "TALLER DE INGENIERIA I",
+    "requisites": [""],
+    "position": 1,
+    "horarios": [
+      {
+        "grupo": 1,
+        "bloques": [
+          {"pos": 7, "sala": "9101"},
+          {"pos": 28, "sala": "9101"}
+        ]
+      },
+      {
+        "grupo": 2,
+        "bloques": [
+          {"pos": 9, "sala": "9101"},
+          {"pos": 29, "sala": "9101"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN036-07",
+    "name": "ALGEBRA LINEAL PARA INGENIERIA",
+    "requisites": ["BAIN017-07"],
+    "position": 2,
+    "horarios": [
+      {
+        "grupo": 3,
+        "bloques": [
+          {"pos": 7, "sala": "6304"},
+          {"pos": 16, "sala": "6309"},
+          {"pos": 30, "sala": "6303"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN037-07",
+    "name": "CALCULO I PARA INGENIERIA",
+    "requisites": ["BAIN017-07"],
+    "position": 2,
+    "horarios": [
+      {
+        "grupo": 3,
+        "bloques": [
+          {"pos": 3, "sala": "6303"},
+          {"pos": 9, "sala": "Audivisual 2"},
+          {"pos": 15, "sala": "6307"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "INFO023-08",
+    "name": "PROGRAMACION",
+    "requisites": ["INFO013-07"],
+    "position": 2,
+    "horarios": [
+      {
+        "grupo": 1,
+        "bloques": [
+          {"pos": 1, "sala": "Lab. Curiñanco"},
+          {"pos": 2, "sala": "Lab. Curiñanco"},
+          {"pos": 28, "sala": "Lab. Curiñanco"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN041-07",
+    "name": "ECUACIONES DIFERENCIALES PARA INGENIERIA",
+    "requisites": ["BAIN037-07"],
+    "position": 3,
+    "horarios": [
+      {
+        "grupo": 3,
+        "bloques": [
+          {"pos": 19, "sala": "6309"},
+          {"pos": 24, "sala": "6310"},
+          {"pos": 28, "sala": "7101"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN042-07",
+    "name": "CALCULO II PARA INGENIERIA",
+    "requisites": ["BAIN037-07"],
+    "position": 3,
+    "horarios": [
+      {
+        "grupo": 3,
+        "bloques": [
+          {"pos": 17, "sala": "6309"},
+          {"pos": 21, "sala": "3204"},
+          {"pos": 30, "sala": "6304"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAIN043-07",
+    "name": "FISICA II PARA INGENIERIA",
+    "requisites": ["BAIN037-07", "BAIN038-07"],
+    "position": 3,
+    "horarios": [
+      {
+        "grupo": 2,
+        "bloques": [
+          {"pos": 9, "sala": "Lab. A"},
+          {"pos": 16, "sala": "Lab. A"},
+          {"pos": 22, "sala": "Lab. A"}
+        ]
+      },
+      {
+        "grupo": 3,
+        "bloques": [
+          {"pos": 2, "sala": "6303"},
+          {"pos": 14, "sala": "6304"},
+          {"pos": 22, "sala": "8103"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "INFO035-08",
+    "name": "TALLER DE INGENIERIA III",
+    "requisites": ["INFO025-08"],
+    "position": 3,
+    "horarios": [
+      {
+        "grupo": 1,
+        "bloques": [
+          {"pos": 7, "sala": "Lab. Llancahue"},
+          {"pos": 8, "sala": "Lab. Llancahue"}
+        ]
+      },
+      {
+        "grupo": 2,
+        "bloques": [
+          {"pos": 11, "sala": "Lab. Llancahue"},
+          {"pos": 12, "sala": "Lab. Llancahue"}
+        ]
+      }
+    ]
+  },
+  {
+    "code": "INFO043-07",
+    "name": "ESTRUCTURAS DISCRETAS",
+    "requisites": ["BAIN036-07", "INFO013-07"],
+    "position": 3,
+    "horarios": [
+      {
+        "grupo": 1,
+        "bloques": [
+          {"pos": 3, "sala": "6310"},
+          {"pos": 11, "sala": "6302"},
+          {"pos": 22, "sala": "6302"}
+        ]
+      }
+    ]
+  }
+]

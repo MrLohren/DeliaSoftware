@@ -1,0 +1,309 @@
+[
+  {
+    "code": "CIDI100-90",
+    "name": "INGLES INSTRUMENTAL II",
+    "requisites": "",
+    "position": 0
+  },
+  {
+    "code": "INFO033-07",
+    "name": "PROGRAMACION ORIENTADA A OBJETOS",
+    "requisites": ["INFO023-08"],
+    "position": 4
+  },
+  {
+    "code": "BAIN052-07",
+    "name": "ESTADISTICA Y PROBABILIDADES PARA INGENIERIA",
+    "requisites": ["BAIN036-07"],
+    "position": 4
+  },
+  {
+    "code": "BAIN053-07",
+    "name": "METODOS NUMERICOS PARA INGENIERIA",
+    "requisites": ["BAIN041-07"],
+    "position": 4
+  },
+  {
+    "code": "BAIN054-07",
+    "name": "FISICA III PARA INGENIERIA",
+    "requisites": ["BAIN041-07", "BAIN042-07"],
+    "position": 4
+  },
+  {
+    "code": "ELECT01",
+    "name": "OPTATIVO 1",
+    "requisites": [""],
+    "position": 4
+  },
+  {
+    "code": "INFO045-08",
+    "name": "TALLER",
+    "requisites": ["BAIN041-07, BAIN042-07, INFO035-08"],
+    "position": 4
+  },
+  {
+    "code": "INFO053-07",
+    "name": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+    "requisites": ["INFO035-08", "INFO043-07"],
+    "position": 4
+  },
+  {
+    "code": "INFO172-00",
+    "name": "INVESTIGACION OPERATIVA I",
+    "requisites": ["BAIN036-07"],
+    "position": 5
+  },
+  {
+    "code": "ADMI100-90",
+    "name": "ADMINISTRACION DE EMPRESAS",
+    "requisites": ["BAIN009-07", "INFO035-08"],
+    "position": 5
+  },
+  {
+    "code": "INFO164-00",
+    "name": "TEORIA DE AUTOMATAS",
+    "requisites": ["INFO053-07"],
+    "position": 5
+  },
+  
+  {
+    "code": "INFO175-08",
+    "name": "TALLER DE CONSTRUCCION DE SOFTWARE",
+    "requisites": ["INFO035-08", "INFO053-07"],
+    "position": 5
+  },
+  {
+    "code": "INFO184-08",
+    "name": "ARQUITECTURA DE COMPUTADORES",
+    "requisites": ["BAIN019-07", "BAIN037-07", "BAIN038-07"],
+    "position": 5
+  },
+  {
+    "code": "INFO163-08",
+    "name": "PROGRAMACION CONCURRENTE",
+    "requisites": ["INFO053-07"],
+    "position": 6
+  },
+  {
+    "code": "INFO165-00",
+    "name": "COMPILADORES",
+    "requisites": ["INFO164-00"],
+    "position": 6
+  },
+  {
+    "code": "INFO173-00",
+    "name": "INVESTIGACION OPERATIVA II",
+    "requisites": ["BAIN042-07", "BAIN052-07", "INFO172-00"],
+    "position": 6
+  },
+  {
+    "code": "INFO183-00",
+    "name": "ANALISIS DE SISTEMAS LINEALES",
+    "requisites": ["BAIN041-07", "INFO184-08"],
+    "position": 6
+  },
+  {
+    "code": "INFO261-08",
+    "name": "BASES DE DATOS",
+    "requisites": ["INFO164-00"],
+    "position": 6
+  },
+  {
+    "code": "INFO265-08",
+    "name": "COMPUTACION GRAFICA",
+    "requisites": ["INFO035-08", "INFO053-07"],
+    "position": 6
+  },
+  {
+    "code": "IECO102-05",
+    "name": "ECONOMIA GENERAL",
+    "requisites": ["BAIN042-07", "INFO035-08"],
+    "position": 7
+  },
+  {
+    "code": "INFO182-00",
+    "name": "SISTEMA OPERATIVO",
+    "requisites": ["INFO163-08"],
+    "position": 7
+  },
+  {
+    "code": "INFO185-97",
+    "name": "COMUNICACIONES",
+    "requisites": ["BAIN042-07", "BAIN052-07", "INFO184-08"],
+    "position": 7
+  },
+  {
+    "code": "INFO189-08",
+    "name": "SOFTWARE DE INGENIERIA",
+    "requisites": ["BAIN043-07", "BAIN053-07", "INFO045-08", "INFO183-00"],
+    "position": 7
+  },
+  {
+    "code": "INFO263-08",
+    "name": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+    "requisites": ["ADMI100-90", "INFO175-08"],
+    "position": 7
+  },
+  {
+    "code": "INFO270-00",
+    "name": "INGENIERIA DE SISTEMAS",
+    "requisites": ["INFO164-00"],
+    "position": 7
+  },
+  {
+    "code": "INFO264-00",
+    "name": "TALLER INGENIERIA DE SOFTWARE",
+    "requisites": ["INFO035-08", "INFO261-08", "INFO263-08"],
+    "position": 8
+  },
+  {
+    "code": "INFO266-08",
+    "name": "INTERFAZ HUMANO - COMPUTADOR",
+    "requisites": ["INFO263-08"],
+    "position": 8
+  },
+  {
+    "code": "INFO271-08",
+    "name": "SISTEMAS DE INFORMACION",
+    "requisites": ["ADMI100-90", "IECO102-05", "INFO270-00"],
+    "position": 8
+  },
+  {
+    "code": "INFO272-00",
+    "name": "INGENIERIA ECONOMICA",
+    "requisites": ["IECO102-05, INFO173-00"],
+    "position": 8
+  },
+  {
+    "code": "INFO281-08",
+    "name": "REDES",
+    "requisites": ["INFO182-00", "INFO185-97"],
+    "position": 8
+  },
+  {
+    "code": "INFO284-08",
+    "name": "TALLER DE INTEGRACION DE TIC",
+    "requisites": ["BAIN054-07", "INFO175-08", "INFO183-00"],
+    "position": 8
+  },
+  {
+    "code": "CIDI108-02",
+    "name": "INGLES FUNCIONAL",
+    "requisites": [""],
+    "position": 9
+  },
+  {
+    "code": "EICI297-90",
+    "name": "PRACTICA PROFESIONAL",
+    "requisites": ["INFO264-00", "INFO266-08", "INFO271-08", "INFO272-00", "INFO281-08", "INFO284-08"],
+    "position": 9
+  },
+  {
+    "code": "ELECT20",
+    "name": "OPTATIVO PROFESIONAL 1",
+    "requisites": [""],
+    "position": 9
+  },
+  {
+    "code": "INFO251-08",
+    "name": "SEMINARIO DE ETICA PROFESIONAL",
+    "requisites": ["INFO264-00", "INFO272-00", "INFO281-08"],
+    "position": 9
+  },
+  {
+    "code": "INFO252-97",
+    "name": "PROYECTO I",
+    "requisites": ["INFO264-00", "INFO271-08", "INFO272-00"],
+    "position": 9
+  },
+  {
+    "code": "INFO268-00",
+    "name": "TALLER DE BASE DE DATOS",
+    "requisites": ["INFO264-00"],
+    "position": 9
+  },
+  {
+    "code": "INFO273-00",
+    "name": "EVALUACION DE DESEMPEÑO",
+    "requisites": ["INFO173-00", "INFO182-00", "INFO281-08"],
+    "position": 9
+  },
+  {
+    "code": "INFO275-08",
+    "name": "SISTEMAS DE GESTION ESTRATEGICOS",
+    "requisites": ["ADMI100-90", "INFO270-00", "INFO272-00"],
+    "position": 9
+  },
+  {
+    "code": "EICI245-08",
+    "name": "TALLER DE SOFTWARE- PROYECTO INTEGRACIÓN DE TIC",
+    "requisites": ["INFO189-08", "INFO264-00", "INFO266-08", "INFO281-08", "INFO284-08"],
+    "position": 10
+  },
+  {
+    "code": "EICI246-08",
+    "name": "ARQUITECTURA DE SISTEMAS",
+    "requisites": ["INFO264-00", "INFO271-08", "INFO275-08", "INFO281-08", "INFO284-08"],
+    "position": 10
+  },
+  {
+    "code": "EICI247-08",
+    "name": "REALIDAD TECNOLOGICA NACIONAL",
+    "requisites": ["INFO264-00", "INFO272-00", "INFO281-08"],
+    "position": 10
+  },
+  {
+    "code": "INFO267-00",
+    "name": "INTELIGENCIA ARTIFICIAL",
+    "requisites": ["INFO175-08"],
+    "position": 10
+  },
+  {
+    "code": "INFO274-00",
+    "name": "SIMULACION",
+    "requisites": ["INFO173-00"],
+    "position": 10
+  },
+  {
+    "code": "INFO276-08",
+    "name": "SISTEMAS DE GESTION TACTICOS",
+    "requisites": ["ADMI100-90", "INFO270-00", "INFO272-00"],
+    "position": 10
+  },
+  {
+    "code": "EICI255-08",
+    "name": "ADMINISTRACION DE TIC",
+    "requisites": ["EICI245-08", "EICI246-08", "INFO276-08"],
+    "position": 11
+  },
+  {
+    "code": "EICI261-08",
+    "name": "ESTRATEGIA Y SI",
+    "requisites": ["EICI246-08", "INFO276-08"],
+    "position": 11
+  },
+  {
+    "code": "EICI298-09",
+    "name": "PROYECTO DE TITULO",
+    "requisites": [""],
+    "position": 11
+  },
+  {
+    "code": "ELECT21",
+    "name": "OPTATIVO PROFESIONAL 2",
+    "requisites": [""],
+    "position": 11
+  },
+  {
+    "code": "ELECT22",
+    "name": "OPTATIVO PROFESIONAL 3",
+    "requisites": [""],
+    "position": 11
+  },
+  {
+    "code": "INFO253-08",
+    "name": "ANTEPROYECTO DE TITULO",
+    "requisites": ["EICI245-08", "EICI246-08", "INFO276-08"],
+    "position": 11
+	}
+]

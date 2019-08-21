@@ -11,6 +11,12 @@ Para ejecutar página:
 - css grid: https://www.w3schools.com/css/css_grid.asp
 - css grid-properties: https://cssreference.io/property/box-shadow/
 
+- tabs para multiples horarios: https://www.w3schools.com/howto/howto_js_tabs.asp
+- lib Calendario: https://fullcalendar.io/
+	-> Instalación: npm install --save @fullcalendar/core @fullcalendar/react @fullcalendar/timegrid
+	-> Uso con react: https://fullcalendar.io/docs/react
+	-> Timegrid: https://fullcalendar.io/docs/timegrid-view
+
 - Formato de horarios:
 "horarios": [
 	{ "id": ,
@@ -22,4 +28,4 @@ Para ejecutar página:
 	}
 ]
 
-- Bloques por día = 7
+bloques por día = 7
